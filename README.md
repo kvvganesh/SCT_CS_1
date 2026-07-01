@@ -112,6 +112,6 @@ The Caesar Cipher is a substitution cipher where each letter is shifted by a fix
 
 Ganesh
 
-Cybersecurity Intern | Learning Python & Security Fundamentals
+Learning Python & Security Fundamentals
 
-Feel free to connect, provide feedback, or contribute to the project!
+
